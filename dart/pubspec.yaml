@@ -1,6 +1,6 @@
 name: apiverve_advice
 description: Advice Generator is a simple tool for generating random pieces of advice. It returns a random piece of advice.
-version: 1.1.13
+version: 1.1.14
 homepage: https://apiverve.com/marketplace/advice?utm_source=dart&utm_medium=homepage
 repository: https://github.com/apiverve/advice-api/tree/main/dart
 
