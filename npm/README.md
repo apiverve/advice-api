@@ -116,8 +116,8 @@ async function makeRequest() {
   "status": "ok",
   "error": null,
   "data": {
-    "id": "1t39qBIy",
-    "advice": "Seek ways to improve your financial literacy and make sound financial decisions.",
+    "id": "3xx4VZSZ",
+    "advice": "Be creative and innovative.",
     "lang": "en"
   }
 }
