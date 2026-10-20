@@ -1,7 +1,7 @@
 {
   "name": "@apiverve/advice",
-  "version": "1.2.0",
-  "description": "Advice Generator is a simple tool for generating random pieces of advice. It returns a random piece of advice.",
+  "version": "1.2.2",
+  "description": "Advice Generator supplies random pieces of advice on demand. Each response includes a unique advice identifier, the advice quote, and the language code.",
   "main": "index.js",
   "types": "index.d.ts",
   "sideEffects": false,
@@ -23,7 +23,7 @@
     "directory": "npm"
   },
   "keywords": [
-    ""
+    "random advice api", "advice generator", "get random advice", "random advice quotes", "random tips generator"
   ],
   "author": {
     "name": "APIVerve",
@@ -34,7 +34,7 @@
   "bugs": {
     "url": "https://github.com/apiverve/advice-api/issues"
   },
-  "homepage": "https://apiverve.com/marketplace/advice?utm_source=npm&utm_medium=homepage",
+  "homepage": "https://apiverve.com/marketplace/advice?utm_source=npm&utm_medium=referral&utm_content=homepage",
   "devDependencies": {
     "mocha": "^11.0.1",
     "chai": "^5.1.2",
