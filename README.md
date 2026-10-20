@@ -1,13 +1,13 @@
-# [Advice Generator API](https://apiverve.com/marketplace/advice?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+# [Advice Generator API](https://apiverve.com/marketplace/advice?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 
-Advice Generator is a simple tool for generating random pieces of advice. It returns a random piece of advice.
+Advice Generator supplies random pieces of advice on demand. Each response includes a unique advice identifier, the advice quote, and the language code.
 
 The Advice Generator API provides a simple, reliable way to integrate advice generator functionality into your applications. Built for developers who need production-ready advice generator capabilities without the complexity of building from scratch.
 
-**[View API Details →](https://apiverve.com/marketplace/advice?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)**
+**[View API Details →](https://apiverve.com/marketplace/advice?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![API Status](https://img.shields.io/badge/Status-Active-green.svg)](https://apiverve.com/marketplace/advice?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+[![API Status](https://img.shields.io/badge/Status-Active-green.svg)](https://apiverve.com/marketplace/advice?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 [![Method](https://img.shields.io/badge/Method-GET-blue.svg)](#)
 [![Platform](https://img.shields.io/badge/Platform-Multi--Platform-orange.svg)](#installation)
 
@@ -157,7 +157,7 @@ go get github.com/apiverve/advice-api/go
 
 ## Documentation
 
-- 🏠 **API Home:** [Advice Generator API](https://apiverve.com/marketplace/advice?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+- 🏠 **API Home:** [Advice Generator API](https://apiverve.com/marketplace/advice?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 - 📚 **API Reference:** [docs.apiverve.com/ref/advice](https://docs.apiverve.com/ref/advice)
 - 📖 **OpenAPI Spec:** [openapi.yaml](./openapi.yaml)
 - 💡 **Examples:** [examples/](./examples/)
@@ -218,7 +218,7 @@ A real response from the Advice Generator API:
 
 ## Support & Community
 
-- 🏠 **API Home**: [Advice Generator API](https://apiverve.com/marketplace/advice?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+- 🏠 **API Home**: [Advice Generator API](https://apiverve.com/marketplace/advice?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 - 💬 **Support**: [https://apiverve.com/contact](https://apiverve.com/contact)
 - 🐛 **Issues**: [GitHub Issues](../../issues)
 - 📖 **Documentation**: [https://docs.apiverve.com](https://docs.apiverve.com)

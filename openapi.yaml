@@ -2,8 +2,9 @@ openapi: 3.0.4
 info:
   title: Advice Generator
   description: >-
-    Advice Generator is a simple tool for generating random pieces of advice. It
-    returns a random piece of advice.
+    Advice Generator supplies random pieces of advice on demand. Each response
+    includes a unique advice identifier, the advice quote, and the language
+    code.
   termsOfService: https://apiverve.com/terms/
   contact:
     name: APIVerve Support
@@ -18,7 +19,7 @@ servers:
 paths:
   /v1/advice:
     get:
-      summary: Generate Random Advice
+      summary: Advice Generator
       description: >-
         Advice Generator is a simple tool for generating random pieces of
         advice. It returns a random piece of advice.
