@@ -1,6 +1,6 @@
 # Advice Generator API - PHP Package
 
-Advice Generator is a simple tool for generating random pieces of advice. It returns a random piece of advice.
+Advice Generator supplies random pieces of advice on demand. Each response includes a unique advice identifier, the advice quote, and the language code.
 
 ## Installation
 
@@ -83,11 +83,11 @@ $client = new Client(
 
 ## Documentation
 
-For more information, visit the [API Documentation](https://docs.apiverve.com/ref/advice?utm_source=packagist&utm_medium=readme).
+For more information, visit the [API Documentation](https://docs.apiverve.com/ref/advice?utm_source=packagist&utm_medium=referral&utm_content=readme).
 
 ## Support
 
-- Website: [https://apiverve.com/marketplace/advice?utm_source=php&utm_medium=readme](https://apiverve.com/marketplace/advice?utm_source=php&utm_medium=readme)
+- Website: [https://apiverve.com/marketplace/advice?utm_source=php&utm_medium=referral&utm_content=readme](https://apiverve.com/marketplace/advice?utm_source=php&utm_medium=referral&utm_content=readme)
 - Email: hello@apiverve.com
 
 ## License
