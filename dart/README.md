@@ -1,11 +1,11 @@
 # Advice Generator API - Dart/Flutter Client
 
-Advice Generator is a simple tool for generating random pieces of advice. It returns a random piece of advice.
+Advice Generator supplies random pieces of advice on demand. Each response includes a unique advice identifier, the advice quote, and the language code.
 
 [![pub package](https://img.shields.io/pub/v/apiverve_advice.svg)](https://pub.dev/packages/apiverve_advice)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is the Dart/Flutter client for the [Advice Generator API](https://apiverve.com/marketplace/advice?utm_source=dart&utm_medium=readme).
+This is the Dart/Flutter client for the [Advice Generator API](https://apiverve.com/marketplace/advice?utm_source=dart&utm_medium=referral&utm_content=readme).
 
 ## Installation
 
@@ -13,7 +13,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  apiverve_advice: ^1.1.14
+  apiverve_advice: ^1.2.3
 ```
 
 Then run:
@@ -34,7 +34,7 @@ void main() async {
 
   try {
     final response = await client.execute();
-
+    
     print('Status: ${response.status}');
     print('Data: ${response.data}');
   } catch (e) {
@@ -50,8 +50,8 @@ void main() async {
   "status": "ok",
   "error": null,
   "data": {
-    "id": "1t39qBIy",
-    "advice": "Seek ways to improve your financial literacy and make sound financial decisions.",
+    "id": "3xx4VZSZ",
+    "advice": "Be creative and innovative.",
     "lang": "en"
   }
 }
@@ -59,12 +59,12 @@ void main() async {
 
 ## API Reference
 
-- **API Home:** [Advice Generator API](https://apiverve.com/marketplace/advice?utm_source=dart&utm_medium=readme)
-- **Documentation:** [docs.apiverve.com/ref/advice](https://docs.apiverve.com/ref/advice?utm_source=dart&utm_medium=readme)
+- **API Home:** [Advice Generator API](https://apiverve.com/marketplace/advice?utm_source=dart&utm_medium=referral&utm_content=readme)
+- **Documentation:** [docs.apiverve.com/ref/advice](https://docs.apiverve.com/ref/advice?utm_source=dart&utm_medium=referral&utm_content=readme)
 
 ## Authentication
 
-All requests require an API key. Get yours at [apiverve.com](https://apiverve.com?utm_source=dart&utm_medium=readme).
+All requests require an API key. Get yours at [apiverve.com](https://apiverve.com?utm_source=dart&utm_medium=referral&utm_content=readme).
 
 ## License
 
@@ -72,4 +72,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-Built with Dart for [APIVerve](https://apiverve.com?utm_source=dart&utm_medium=readme)
+Built with Dart for [APIVerve](https://apiverve.com?utm_source=dart&utm_medium=referral&utm_content=readme)
