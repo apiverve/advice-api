@@ -1,6 +1,6 @@
 name: apiverve_advice
 description: "Advice Generator supplies random pieces of advice on demand. Each response includes a unique advice identifier, the advice quote, and the language code."
-version: 1.2.3
+version: 1.2.4
 homepage: https://apiverve.com/marketplace/advice?utm_source=dart&utm_medium=referral&utm_content=homepage
 repository: https://github.com/apiverve/advice-api/tree/main/dart
 
